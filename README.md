@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- ☁️ I've keen interest in Computer Forensics So,I'm working on making some progress on that. ****
+- ☁️ I've keen interest in Computer Forensics So, **** I'm working on making some progress on that. ****
 
 - 📝 I regularly write articles on [Computer Forensics]([(https://en.wikipedia.org/wiki/Computer_forensics)])
 
