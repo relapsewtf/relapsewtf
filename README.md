@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/relapsewtf/relapsewtf/blob/main/46f4803baa1334e96c6b047dcc9eac92.jpg"
+  <img  src="https://github.com/relapsewtf/relapsewtf/blob/main/relapse.jpg"
        alt="relapse" /></a>
 </div>
 
