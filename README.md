@@ -38,7 +38,7 @@
 
 - 📫 Feel free to reach me out **admin@relapse.wtf**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [shellbagsview](https://discordapp.com/users/822891902512136244) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [shellbagsview](https://discordapp.com/users/822891902512136244) is my username!
 <!--Intro end-->
 
 
