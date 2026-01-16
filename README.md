@@ -26,19 +26,21 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, HTML, Flask**
+- 💻 I have been keeping myself up to date with Cybersecurity related topics, I really enjoy learning about cybersecurity.
 
-- 🌱 I’m currently learning **C#**
+- 🔭 I’m currently working on **Python, HTML, Javascript & CSS**
 
-- ☁️ I've keen interest in Computer Forensics So, **** I'm working on making some progress on that. ****
+- 🌱 I’m currently learning **C++, Powershell & Batch**
+
+- ☁️ I've keen interest in Computer Forensics So,  I'm working on making some progress on that. 
 
 - 📝 I regularly write articles on [Computer Forensics]([(https://en.wikipedia.org/wiki/Computer_forensics)])
 
-- 💬 Ask me about **Python, Flask or about Computer Forensics**
+- 💬 Ask me about **Python, Javascript or about Computer Forensics**
 
-- 📫 Feel free to reach me out **admin@relapse.wtf**
+- 📫 Feel free to reach me out **admin@professor.lol**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [reeeeeeelapse](https://discordapp.com/users/822891902512136244) is my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [reeeeeeelapse](https://discordapp.com/users/1133040583552802816) is my username!
 <!--Intro end-->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -64,8 +66,8 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://telegram.me/relapsewtf" target="blank"><img align="center" src="https://github.com/relapsewtf/relapsewtf/blob/main/lol.png" alt="telegram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://telegram.me/professorrrr" target="blank"><img align="center" src="https://github.com/relapsewtf/relapsewtf/blob/main/lol.png" alt="telegram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/1133040583552802816" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
 
@@ -82,6 +84,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [relapse](https://github.com/relapsewtf)
+Credit: [professor](https://github.com/relapsewtf)
 
-Last Edited on: 15/01/2025
+Last Edited on: 16/01/2026
