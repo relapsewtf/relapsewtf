@@ -66,7 +66,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://telegram.me/professorrrr" target="blank"><img align="center" src="https://github.com/relapsewtf/relapsewtf/blob/main/lol.png" alt="telegram" height="50" width="50" /></a>
+<a href="https://telegram.me/pprrooffeessoorr" target="blank"><img align="center" src="https://github.com/relapsewtf/relapsewtf/blob/main/lol.png" alt="telegram" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/1133040583552802816" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
