@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently working on **Python, HTML, Javascript & CSS**
 
-- 🌱 I’m currently learning **C++, Powershell & Batch**
+- 🌱 I’m currently learning **about FPGA, PCIe & C++**
 
 - ☁️ I've keen interest in Computer Forensics So,  I'm working on making some progress on that. 
 
