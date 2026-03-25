@@ -38,7 +38,7 @@
 
 - 💬 Ask me about **Python, Javascript or about Computer Forensics**
 
-- 📫 Feel free to reach me out **admin@professor.lol**
+- 📫 Feel free to reach me out **relapsewtf@proton.me**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [reeeeeeelapse](https://discordapp.com/users/1133040583552802816) is my username!
 <!--Intro end-->
